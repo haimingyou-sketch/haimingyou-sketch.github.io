@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://haimingyou-sketch.github.io//sitemap.xml
